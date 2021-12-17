@@ -270,25 +270,21 @@ kill_pid() {
 
 banner() {
 
-	cat <<- EOF
 
-		${ORANGE}
 
-		${ORANGE} ______      _     _     _               
 
-		${ORANGE}|___  /     | |   (_)   | |              
 
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
 
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
 
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 
-		${ORANGE}      | |                                
 
-		${ORANGE}      |_|                ${RED}Version : 2.2
+
+
+
+
+
+{RED}Version : 1.0
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Muhammad Danish (Abbasi.Studio)${WHITE}
 
